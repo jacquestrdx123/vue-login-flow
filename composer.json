@@ -11,7 +11,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/jacquestredoux/vue-login-flow.git"
+        "url": "https://github.com/jacquestrdx123/vue-login-flow.git"
     },
     "require": {
         "php": "^8.1",
