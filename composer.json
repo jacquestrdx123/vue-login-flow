@@ -2,6 +2,7 @@
     "name": "jacquestrdx123/vue-login-flow",
     "description": "A Laravel package to quickly set up custom guards with Inertia.js/Vue login pages",
     "type": "library",
+    "version": "1.0.0",
     "license": "MIT",
     "authors": [
         {
